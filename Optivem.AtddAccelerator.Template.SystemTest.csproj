@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include=".github\workflows\local-acceptance-stage-csharp.yml" />
+    <None Include=".github\workflows\local-acceptance-stage-dotnet.yml" />
   </ItemGroup>
 
 </Project>
