@@ -1,6 +1,6 @@
 using Microsoft.Playwright;
 
-namespace Optivem.EShop.SystemTest
+namespace Optivem.AtddAccelerator.Template.SystemTest
 {
     public class SmokeTest
     {
